@@ -1,3 +1,2 @@
-
 #ignorar los archivos terminados en hex
- *.hex
+*.hex
